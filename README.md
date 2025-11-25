@@ -7,4 +7,4 @@ to use this inside of strudel, enter the following line in your strudel pattern:
 samples('github:kyrsive/glorkglunk-wavetables')
 ```
 
-please [support glorkglunk](https://glitchdotcool.gumroad.com/) if u can 
+please [support glorkglunk](https://glorkglunk.gumroad.com/) if u can 
